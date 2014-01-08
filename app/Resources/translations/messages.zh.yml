@@ -94,10 +94,10 @@
 'Password': 密碼
 'Password: *': '密碼: *'
 'Confirm Password': '確認密碼'
-'New Password': 新密码
+'New Password': 新的密碼
 'Confirm Password: *': '確認密碼: *'
 'Forgot Password?': 忘記密碼?
-'Password successfully changed.': 成功更改密码。
+'Password successfully changed.': 密碼已成功更改
 'part of the anyTV family': any.TV 家族成員之一
 "Don't have an account yet?": 還沒有帳號嗎?
 'Copyright 2013 any.TV Limited | All Rights Reserved': 2013年any.TV有限公司版權所有
@@ -120,7 +120,7 @@
 'PlayNow Link': PlayNow 連結網址
 'Get play now link': 取得PlayNow 連結網址
 'Get PlayNow link': 取得PlayNow 連結網址
-'Get your PlayNow link': 取得PlayNow 連結網址
+'Get your PlayNow link': 取得你的Play Now連結
 'CREATE AN ACCOUNT': 建立一個新帳號
 'Create Account': 建立一個新帳號
 'Logging you in securely': 登入中
@@ -138,7 +138,7 @@
 'Your Refer-a-Friend link': '"介紹朋友"連結網址'
 'Copy Link': 複製連結
 'close': 關閉
-'My Youtube Videos': 我的影片
+'My Youtube Videos': 我的YouTube影片
 'Chinese': 中文
 'URL': 預覽網址
 'Preview URL': 預覽網址
@@ -213,30 +213,30 @@
 'Miss the old dashboard? Click': '想念舊的資訊介面板嗎? 請按'
 'here': 這裡
 'Miss the old dashboard? Click here.': '想念舊的資訊介面板嗎? 請按這裡.'
-'Miss the previous any.TV website? Click here.': '小姐以前的any.TV网站？点击这里。'
+'Miss the previous any.TV website? Click here.': '想念舊的資訊介面板嗎? 請按這裡。'
 'Old Dashboard': 舊版資訊介面板
 'previous any.TV website': '以前any.TV网站'
 'Referral List': 介紹朋友清單
 'Signup Answers': 登入答案
 'Join our staff!': 加入我們的團隊!
 'Submit your videos!': 提供你的影片!
-'Your commission': 您的佣金
-'Their earnings': 他们的收入
-'Hide $0 earnings': 隐藏0美元盈利
-'From': 从
-'To': 至
-'Export To CSV': 导出到CSV
-'Your commission rate': 您的佣金率
+'Your commission': 你的佣金
+'Their earnings': 他們的收益
+'Hide $0 earnings': 隱藏$0的收益
+'From': 從
+'To': 到
+'Export To CSV': 以CSV輸出
+'Your commission rate': 你的佣金率
 'Clicks': 点击
 'My Traffic': 我的流量
 'Search Games': 搜尋遊戲
-'No matches found.': 未找到匹配结果。 
-'Top Youtube Videos': 热门Youtube视频
-'Video': 视频
-'Videos': 视频
-'Top Affiliates': 热门伙伴
-'Top Referrers': 顶级推荐
-'Referral Count': 复诊次数
-'Press CTRL-C to copy': 按CTRL-C进行复制
+'No matches found.': 找不到你要的 
+'Top Youtube Videos': 最熱門的YouTube影片
+'Video': 影片
+'Videos': 影片
+'Top Affiliates': Top會員
+'Top Referrers': Top介紹人
+'Referral Count': 介紹人計數
+'Press CTRL-C to copy': 復製請按Ctrl-C 
 'Contact': 联系
 'Upload': 上傳
